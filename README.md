@@ -51,7 +51,7 @@ public class Main {
 * [Diners Club - International FAIL #3](https://github.com/BulygaDenis/javaHW1.2/issues/3)
 
 ## Документация:
-[Установить IntelliJ IDEA согласно](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
+[Установить IntelliJ IDEA согласно Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
 
 
 ## Результаты
