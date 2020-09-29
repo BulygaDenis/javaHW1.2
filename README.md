@@ -46,9 +46,9 @@ public class Main {
 ```
 
 ## В результате тестирования выявлены следующие дефекты: 
-* [American Express (AMEX) FAIL #1](https://github.com/BulygaDenis/javaHW1.2/issues/1);
-* [Diners Club - Carte Blanche FAIL #2](https://github.com/BulygaDenis/javaHW1.2/issues/2).
-* [Diners Club - International FAIL #3](https://github.com/BulygaDenis/javaHW1.2/issues/3)
+* [American Express (AMEX) FAIL](https://github.com/BulygaDenis/javaHW1.2/issues/1);
+* [Diners Club - Carte Blanche FAIL](https://github.com/BulygaDenis/javaHW1.2/issues/2).
+* [Diners Club - International FAIL](https://github.com/BulygaDenis/javaHW1.2/issues/3)
 
 ## Документация:
 [Установить IntelliJ IDEA согласно Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
